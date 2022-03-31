@@ -1,0 +1,6 @@
+노현섭
+
+Using array is easy to insert or take out but it is hard to search because it uses the way of linear searching.
+However, hash table is hard to insert or take out and is easy to search the element because it has hash value and can index it.
+
+Didn't implement hash table expansion.
